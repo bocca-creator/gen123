@@ -1,7 +1,7 @@
 key='9193d8b1-d3bd-4d54-8291-75c83c4dd0fe'
 app_name="gen144g"
 deviceid="DYyLTRkMDYtYWRhNi01YzI1NWMwZTU2NGIiLCAiNSI6IDE2NDA1NjE5NjMsICI0IjogIjkxLjE5Mi4xODMuMjQiLCAiNiI6IDEwMH2YQzekEFD8og_Gepcj-wppNGRzMA"
-emaill="boccakilor@gmail.com"
+emaill="boccakillor5@gmail.com"
 passwordd="kill20167"
 custompwd="1354fghoyf"
 private="94e72c67-7cec-0ae1-0eca-768d2bfd0e1a"
