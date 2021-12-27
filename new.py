@@ -1,9 +1,9 @@
 key='9193d8b1-d3bd-4d54-8291-75c83c4dd0fe'
 app_name="gen144g"
-deviceid="32E3DDD1C3607790DE1D2F4AECD1C6E81D3F49EB2B93DC1203984EE5B83EAEA89B80A2D32978ABFD1A"
+deviceid="32D9F93DE43FEE3A40415208B0C0C874548E920E039CEE4A4B791A6C090432113C119570EE07FD6DEA"
 emaill="boccakillor6@gmail.com"
 passwordd="kill20167"
 custompwd="1354fghoyf"
 private="4ab664a1-9650-03d9-29d6-972780297e18"
 chatlink="http://aminoapps.com/p/v42onwu"
-nickname="Ейс"
+nickname="Fagag"
